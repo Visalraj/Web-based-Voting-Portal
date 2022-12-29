@@ -1,0 +1,32 @@
+body{
+        background: #f8f9fa;
+   }
+      img{
+              width: 150px;
+              float: left;
+      }
+ h2{
+      float: left;
+      padding: 7px;
+      margin-top: 30px;
+      margin-left: 378px;
+
+      text-decoration: underline;
+ }
+ .main{
+      float: left;
+      width: 100%;
+      margin-top: 120px;
+   
+ }
+button{
+   width:200px;
+   padding: 7px;
+      border-radius: 10px;
+      margin: 15px;
+      border: none;
+      font-family: sans-serif;
+      font-size: 15px;
+      color:black;
+
+}
